@@ -49,6 +49,13 @@
         "essentials/end-of-year-obligations",
         "essentials/tax-obligations"
       ]
+    },
+    {
+      "group": "Reports",
+      "pages": [
+        "reports/statement-of-financial-position",
+        "reports/statement-of-activities"
+      ]
     }
   ],
   "footerSocials": {
